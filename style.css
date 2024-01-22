@@ -130,3 +130,21 @@ h3 {
   text-align: start;
   padding-top: 30px;
 }
+
+@media (max-width: 800px) {
+  p {
+    font-size: 14px;
+  }
+  body {
+    background: wheat;
+  }
+  h1 {
+    font-size: 42px;
+  }
+  h2 {
+    font-size: 48px;
+  }
+  .introduce {
+    font-size: 42px;
+  }
+}
